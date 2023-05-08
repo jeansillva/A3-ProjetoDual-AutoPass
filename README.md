@@ -22,10 +22,10 @@ A identidade visual do produto será mantida, seguindo as diretrizes da AutoPass
 
 # Tecnologias Usadas
 
-- [HTML5] (https://html.spec.whatwg.org/)
-- [JavaScript](https://www.typescriptlang.org/)
+- [HTML5](https://html.spec.whatwg.org/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-# 1 Estudo da Aplicação - Características e Requisitos 
+# 1 - Estudo da Aplicação Características e Requisitos 
 
 A empresa AutoPass é a principal empresa privada no Brasil que oferece as melhores soluções referente a bilhetagem eletrônica e mobilidade. Dentro desse mercado a mais de 12 anos, a empresa tem como principal objetivo implementar uma solução e plataforma digital que possibilite o usuário a utilizar seus serviços de forma satisfatória e simplificar a experiencia em seus produtos.  
   
@@ -54,7 +54,7 @@ Informações retiradas do site oficial da AutoPass (https://www.autopass.com.br
 - [ ] Recarregar Bilhete Único via Cartão de Débito
 - [ ] Consultar o saldo
 
-# 2 Personas
+# 2 - Personas
 
 ![Persona1](https://user-images.githubusercontent.com/111095599/236958158-27ce32d3-d711-40f7-8ae7-c81640b3671f.jpg)
 ![Persona2](https://user-images.githubusercontent.com/111095599/236958165-93b89914-e365-4b20-b811-d2e6fd7657c9.jpg)
@@ -64,16 +64,13 @@ Informações retiradas do site oficial da AutoPass (https://www.autopass.com.br
 ![Persona6](https://user-images.githubusercontent.com/111095599/236958172-fed0daa5-df40-49b8-8ef5-9b7d2ecd0f3f.jpg)
 ![Persona7](https://user-images.githubusercontent.com/111095599/236958173-76f08151-d59d-4a4e-89fe-944670eac3ec.jpg)
 
-# 3 Cenários
+# 3 - Cenários
 
 Cenário para a Persona Alberto:
-Alberto acabou de chegar em casa depois de um dia cansativo de trabalho no centro de São Paulo. Ele está sentindo a tensão do dia ainda em seus ombros e pensa no que precisa fazer para se preparar para o dia seguinte. Ele se lembra que precisa recarregar o cartão de bilhetes para a passagem de ônibus da semana.
+Alberto acabou de chegar em casa depois de um dia cansativo de trabalho no centro de São Paulo. Ele está sentindo a tensão do dia ainda em seus ombros e pensa no que precisa fazer para se preparar para o dia seguinte. Ele se lembra que precisa recarregar o cartão de bilhetes para a passagem de ônibus da semana. Como ele não quer sair de casa novamente, decide usar o aplicativo da TOP, que oferece uma opção de recarga de crédito por Pix. Ele pega o telefone e abre o aplicativo. Ele é direcionado para a página de login, onde ele coloca suas credenciais de usuário. Ao entrar no aplicativo, ele vai até a opção de recarga de crédito do cartão de ônibus e seleciona a opção de Pix. Ele então insere o valor que deseja recarregar e confirma a transação. A página do aplicativo mostra a confirmação da transação e o valor total que ele acabou de recarregar. Alberto se sente aliviado e agradece pela facilidade e rapidez do aplicativo. Ele decide então passar o restante da noite com a família, assistindo televisão e jogando jogos de tabuleiro com seus filhos. Ele se sente grato por ter encontrado uma maneira fácil de lidar com uma das muitas tarefas que tem em sua rotina diária.
 
-Como ele não quer sair de casa novamente, decide usar o aplicativo da TOP, que oferece uma opção de recarga de crédito por Pix. Ele pega o telefone e abre o aplicativo. Ele é direcionado para a página de login, onde ele coloca suas credenciais de usuário.
-
-Ao entrar no aplicativo, ele vai até a opção de recarga de crédito do cartão de ônibus e seleciona a opção de Pix. Ele então insere o valor que deseja recarregar e confirma a transação. A página do aplicativo mostra a confirmação da transação e o valor total que ele acabou de recarregar.
-
-Alberto se sente aliviado e agradece pela facilidade e rapidez do aplicativo. Ele decide então passar o restante da noite com a família, assistindo televisão e jogando jogos de tabuleiro com seus filhos. Ele se sente grato por ter encontrado uma maneira fácil de lidar com uma das muitas tarefas que tem em sua rotina diária.
+Cenário para a Persona Sophia:
+Sophia está caminhando em direção à parada de ônibus quando percebe que esqueceu seu celular em casa. Ela se sente frustrada porque precisa recarregar seu cartão de bilhetes de ônibus e não tem certeza se pode fazer isso sem o celular. Ela verifica o tempo e percebe que o ônibus que ela precisa pegar passará em 15 minutos. Ela se lembra que seu pai deixou um cartão de crédito com ela para emergências. Ela decide tentar recarregar seu cartão de ônibus em um ATM que fica perto da parada de ônibus. Quando chega ao ATM, ela insere o cartão de crédito e seleciona a opção de recarga de bilhetes de ônibus. Sophia seleciona o valor que deseja recarregar e confirma a transação. Ela se sente aliviada quando a tela do ATM mostra que a recarga foi bem-sucedida. Ela pega o comprovante e corre de volta para a parada de ônibus, sabendo que tem apenas alguns minutos para chegar a tempo. Ela finalmente chega à parada de ônibus e percebe que o ônibus que ela precisa pegar ainda não chegou. Ela aproveita o tempo para ler o novo romance que acabou de pegar na biblioteca e se perde na história. Quando o ônibus chega, ela sobe a bordo e se sente grata por ter encontrado uma solução rápida e eficaz para seu problema.
 
 # Contribuição
 
