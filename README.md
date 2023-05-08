@@ -1,9 +1,4 @@
-# A3-ProjetoDual-AutoPass
-
 # Projeto Dual Auto Pass
-
-
-<!-- ![Capa do Projeto](https://picsum.photos/850/280) -->
 
 # Índice/Sumário
 
@@ -70,6 +65,15 @@ Informações retiradas do site oficial da AutoPass (https://www.autopass.com.br
 ![Persona7](https://user-images.githubusercontent.com/111095599/236958173-76f08151-d59d-4a4e-89fe-944670eac3ec.jpg)
 
 # 3 Cenários
+
+Cenário para a Persona Alberto:
+Alberto acabou de chegar em casa depois de um dia cansativo de trabalho no centro de São Paulo. Ele está sentindo a tensão do dia ainda em seus ombros e pensa no que precisa fazer para se preparar para o dia seguinte. Ele se lembra que precisa recarregar o cartão de bilhetes para a passagem de ônibus da semana.
+
+Como ele não quer sair de casa novamente, decide usar o aplicativo da TOP, que oferece uma opção de recarga de crédito por Pix. Ele pega o telefone e abre o aplicativo. Ele é direcionado para a página de login, onde ele coloca suas credenciais de usuário.
+
+Ao entrar no aplicativo, ele vai até a opção de recarga de crédito do cartão de ônibus e seleciona a opção de Pix. Ele então insere o valor que deseja recarregar e confirma a transação. A página do aplicativo mostra a confirmação da transação e o valor total que ele acabou de recarregar.
+
+Alberto se sente aliviado e agradece pela facilidade e rapidez do aplicativo. Ele decide então passar o restante da noite com a família, assistindo televisão e jogando jogos de tabuleiro com seus filhos. Ele se sente grato por ter encontrado uma maneira fácil de lidar com uma das muitas tarefas que tem em sua rotina diária.
 
 # Contribuição
 
