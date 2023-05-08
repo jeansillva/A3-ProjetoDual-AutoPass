@@ -1,5 +1,6 @@
 # Projeto Dual Auto Pass
 
+[Capa do Projeto](https://picsum.photos/850/280)
 # Índice/Sumário
 
 * [Sumário](#índice/sumário)
