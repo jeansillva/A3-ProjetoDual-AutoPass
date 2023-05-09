@@ -68,20 +68,20 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 <img src="https://user-images.githubusercontent.com/111095599/236958165-93b89914-e365-4b20-b811-d2e6fd7657c9.jpg"width="800rem"/>
 <img src="https://user-images.githubusercontent.com/111095599/236958166-a4d697ec-bda6-4529-87e5-da4243a8d71d.jpg" width="800rem"/>
 <img src="https://user-images.githubusercontent.com/111095599/236958169-13561c78-fcb4-422b-8a5b-30e513e7c5e4.jpg"width="800rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236958170-4eeab3db-39b0-4f82-b850-a1631fcd113b.jpg"width="800px"/>
-<img src="https://user-images.githubusercontent.com/111095599/236958172-fed0daa5-df40-49b8-8ef5-9b7d2ecd0f3f.jpg"width="800px"/>
-<img src="https://user-images.githubusercontent.com/111095599/236958173-76f08151-d59d-4a4e-89fe-944670eac3ec.jpg"width="800px"/>
+<img src="https://user-images.githubusercontent.com/111095599/236958170-4eeab3db-39b0-4f82-b850-a1631fcd113b.jpg"width="800rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236958172-fed0daa5-df40-49b8-8ef5-9b7d2ecd0f3f.jpg"width="800rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236958173-76f08151-d59d-4a4e-89fe-944670eac3ec.jpg"width="800rem"/>
 </div>
 
 # 3 - Cenários
 <div align="center">
-<img src="https://user-images.githubusercontent.com/111095599/236974270-8bacff71-f1d3-4312-a2a6-7dfeb049d945.png"width="700rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974276-1f30de76-197c-4ed5-aefc-9b712863c84e.png"width="700rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974279-07bc0831-ed7d-44a9-84e9-4ee65dbcfda7.png"width="700rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974281-e03c0b39-2e64-432d-b01a-b924f6ef7279.png"width="700rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974283-a452d868-cfcc-4b08-98a1-5c0afc1a526b.png"width="700rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974285-86c5a5b7-0810-4918-b209-1ed962952314.png"width="700rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974290-d3dad188-f9e9-4526-9f5f-72d35d3bd74f.png"width="700rem"/>
+<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/a1430238-6593-46cb-b94c-82378ab1453f"width="750rem"/>
+<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/e510b113-3633-4144-925b-e0df19b67804"width="750rem"/>
+<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/789b4742-fb7a-4a9f-9ee6-f483ebbe8b84"width="750rem"/>
+<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/957afc6a-cc51-469c-bac3-a54bf4eac882"width="750rem"/>
+<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/6aa7bf56-01cf-43d8-bbe6-84834df18acc"width="750rem"/>
+<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/a894d5eb-8f95-4e6d-9aa3-1333789bb016"width="750rem"/>
+<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/15c31ba4-2fa8-4e49-996a-dffee39d771e"width="750rem"/>
 </div>
 
 # Contribuição
