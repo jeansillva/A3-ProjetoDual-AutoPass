@@ -1,4 +1,14 @@
 # Projeto Dual Auto Pass
+# Integrantes do Grupo (Nome e RA):
+
+- Alexandre Amorim 820142882 </br>
+- Augusto Kiyomoto Hanashiro 820144963 </br>
+- Christian Ryan 823121651 </br>
+- Isabelle Bezerra Capecce 820140332 </br>
+- Jean Carlos Oliveira da Silva 32210226 </br>
+- Natalia Reis Martins 820142521 </br>
+- Samuel Ribeiro 12722212004 </br>
+- Sâmeck Zanela Costa 322212223 </br>
 
 # Índice/Sumário
 
@@ -83,18 +93,5 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 <img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/a894d5eb-8f95-4e6d-9aa3-1333789bb016"width="750rem"/>
 <img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/15c31ba4-2fa8-4e49-996a-dffee39d771e"width="750rem"/>
 </div>
-
-# Contribuição
-
-
-# Autores
-
-
-
-# Licença
-
-
-
-# Agradecimentos
 
 
