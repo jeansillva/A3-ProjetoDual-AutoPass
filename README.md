@@ -56,13 +56,13 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 
 # 2 - Personas
 
-![Persona1](https://user-images.githubusercontent.com/111095599/236958158-27ce32d3-d711-40f7-8ae7-c81640b3671f.jpg)
-![Persona2](https://user-images.githubusercontent.com/111095599/236958165-93b89914-e365-4b20-b811-d2e6fd7657c9.jpg)
-![Persona3](https://user-images.githubusercontent.com/111095599/236958166-a4d697ec-bda6-4529-87e5-da4243a8d71d.jpg)
-![Persona4](https://user-images.githubusercontent.com/111095599/236958169-13561c78-fcb4-422b-8a5b-30e513e7c5e4.jpg)
-![Persona5](https://user-images.githubusercontent.com/111095599/236958170-4eeab3db-39b0-4f82-b850-a1631fcd113b.jpg)
-![Persona6](https://user-images.githubusercontent.com/111095599/236958172-fed0daa5-df40-49b8-8ef5-9b7d2ecd0f3f.jpg)
-![Persona7](https://user-images.githubusercontent.com/111095599/236958173-76f08151-d59d-4a4e-89fe-944670eac3ec.jpg)
+<img src="![Persona1](https://user-images.githubusercontent.com/111095599/236958158-27ce32d3-d711-40f7-8ae7-c81640b3671f.jpg)" width="1000px"/>
+<img src="![Persona2](https://user-images.githubusercontent.com/111095599/236958165-93b89914-e365-4b20-b811-d2e6fd7657c9.jpg)" width="1000px"/>
+<img src="![Persona3](https://user-images.githubusercontent.com/111095599/236958166-a4d697ec-bda6-4529-87e5-da4243a8d71d.jpg)" width="1000px"/>
+<img src="![Persona4](https://user-images.githubusercontent.com/111095599/236958169-13561c78-fcb4-422b-8a5b-30e513e7c5e4.jpg)"width="1000px"/>
+<img src="![Persona5](https://user-images.githubusercontent.com/111095599/236958170-4eeab3db-39b0-4f82-b850-a1631fcd113b.jpg)"width="1000px"/>
+<img src="![Persona6](https://user-images.githubusercontent.com/111095599/236958172-fed0daa5-df40-49b8-8ef5-9b7d2ecd0f3f.jpg)"width="1000px"/>
+<img src="![Persona7](https://user-images.githubusercontent.com/111095599/236958173-76f08151-d59d-4a4e-89fe-944670eac3ec.jpg)"width="1000px"/>
 
 # 3 - Cenários
 
