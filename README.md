@@ -57,8 +57,8 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 # Fluxo de Usuário: 
 <div align="center">
   <h3> Fluxo do QR CODE: </h3> <img src="https://user-images.githubusercontent.com/111095599/236970966-4b8d532f-b7db-499e-b611-5fc664eec814.png"width="200rem"/>
-  <h3> Fluxo do Cartão TOP: </h3><img src="https://user-images.githubusercontent.com/111095599/236970967-62472937-a0a3-4f85-919e-60e81105b0a8.png"width="1000rem"/>
-  <h3> Fluxo do Bilhete único: </h3><img src="https://user-images.githubusercontent.com/111095599/236970961-d509b2d5-0fa3-4f7b-828a-607a79e6725b.png"width="1000rem"/>
+  <h3> Fluxo do Cartão TOP: </h3><img src="https://user-images.githubusercontent.com/111095599/236970967-62472937-a0a3-4f85-919e-60e81105b0a8.png"width="1200rem"/>
+  <h3> Fluxo do Bilhete único: </h3><img src="https://user-images.githubusercontent.com/111095599/236970961-d509b2d5-0fa3-4f7b-828a-607a79e6725b.png"width="1200rem"/>
 </div>
 
 # 2 - Personas
@@ -83,6 +83,7 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 <img src="https://user-images.githubusercontent.com/111095599/236974285-86c5a5b7-0810-4918-b209-1ed962952314.png"width="700rem"/>
 <img src="https://user-images.githubusercontent.com/111095599/236974290-d3dad188-f9e9-4526-9f5f-72d35d3bd74f.png"width="700rem"/>
 </div>
+
 # Contribuição
 
 
