@@ -98,7 +98,7 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 </div>
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . . Volte em breve 🧑‍🎓
+	🚧  Próxima entrega em desenvolvimento . . . Volte em breve 🧑‍🎓
 </h4>
 
 
