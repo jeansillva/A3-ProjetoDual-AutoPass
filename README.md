@@ -81,6 +81,12 @@ Maria, de 63 anos, está preocupada em chegar a tempo em sua consulta médica. E
 Cenário para a Persona Guilherme: 
 Guilherme acorda cedo para ir ao trabalho e percebe que seu cartão de transporte está quase sem créditos. Ele lembra que pode recarregar o cartão pelo aplicativo e decide tentar. Como já está acostumado a utilizar o smartphone, encontra o aplicativo facilmente na loja de aplicativos e o instala. Ao abrir o app, ele seleciona a opção de recarga escolar, que permite adicionar créditos com desconto para estudantes. Ele escolhe a opção de pagamento com cartão de crédito, informa seus dados e os dados do cartão top e completa a transação. Guilherme se sente satisfeito em ter conseguido fazer a recarga sozinho e sem complicações, e ainda economizando com a opção de recarga escolar. Agora, ele pode ir trabalhar e estudar tranquilo, sabendo que tem créditos suficientes em seu cartão de transporte.
 
+Cenário para a Persona Joana: 
+Joana acordou cedo, se preparou para mais um dia intenso de trabalho e estudo. Apesar da correria, ela sabe da importância de manter sua recarga de transporte público sempre atualizada para evitar problemas no caminho.
+Por isso, antes de sair de casa, ela acessa o aplicativo do cartão TOP e opta por realizar a recarga por PIX, uma opção mais prática e rápida. Joana não tem muita experiência com essa forma de pagamento, mas se sente confiante em realizar a operação.
+Ao chegar ao ponto de ônibus, ela aguarda o transporte e aproveita para conferir o saldo do seu cartão pelo app. Para sua surpresa, a recarga já havia sido confirmada, mas com um pequeno atraso de alguns minutos.
+Mesmo assim, Joana se sente aliviada em saber que não vai precisar se preocupar com a recarga durante a semana e pode se concentrar em suas atividades diárias com mais tranquilidade. Com um sorriso no rosto, ela embarca no ônibus rumo ao trabalho, pronta para encarar mais um dia corrido.
+
 # Contribuição
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
