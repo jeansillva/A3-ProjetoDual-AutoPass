@@ -53,6 +53,10 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 - [ ] Recarregar Bilhete Único em Dinheiro
 - [ ] Recarregar Bilhete Único via Cartão de Débito
 - [ ] Consultar o saldo
+# Fluxo de Usuário: 
+<img src="https://user-images.githubusercontent.com/111095599/236969044-c103db2c-ab43-4259-89b2-a326898fc979.png"width="800rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236969048-2947cc1a-3941-4365-99c0-16651dc1909b.png"width="800rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236969052-8539252e-b73a-4ea5-9ccc-d54e4e9a9500.png"width="800rem"/>
 
 # 2 - Personas
 
