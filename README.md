@@ -20,9 +20,9 @@
 	* [Fluxo de Usuário](#fluxo-de-usuário)
 * [2 - Personas](#2---personas)
 * [3 - Cenários](#3---cenários)
-* [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+<h4 align="center"> 
+	🚧  Mais tópicos serão adicionados ao sumário com o desenvolver do trabalho. . . 🧑‍🎓
+</h4>
 
 
 # Sobre o Projeto
