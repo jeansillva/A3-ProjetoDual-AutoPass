@@ -53,10 +53,13 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 - [ ] Recarregar Bilhete Único em Dinheiro
 - [ ] Recarregar Bilhete Único via Cartão de Débito
 - [ ] Consultar o saldo
+
 # Fluxo de Usuário: 
-<img src="https://user-images.githubusercontent.com/111095599/236969044-c103db2c-ab43-4259-89b2-a326898fc979.png"width="800rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236969048-2947cc1a-3941-4365-99c0-16651dc1909b.png"width="800rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236969052-8539252e-b73a-4ea5-9ccc-d54e4e9a9500.png"width="800rem"/>
+<div align="center">
+  <h3> Fluxo do QR CODE: </h3> <img src="https://user-images.githubusercontent.com/111095599/236970966-4b8d532f-b7db-499e-b611-5fc664eec814.png"width="200rem"/>
+  <h3> Fluxo do Cartão TOP: </h3><img src="https://user-images.githubusercontent.com/111095599/236970967-62472937-a0a3-4f85-919e-60e81105b0a8.png"width="1000rem"/>
+  <h3> Fluxo do Bilhete único: </h3><img src="https://user-images.githubusercontent.com/111095599/236970961-d509b2d5-0fa3-4f7b-828a-607a79e6725b.png"width="1000rem"/>
+</div>
 
 # 2 - Personas
 
@@ -72,7 +75,7 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 
 # 3 - Cenários
 
-<img src="![Persona1](https://user-images.githubusercontent.com/111095599/236958158-27ce32d3-d711-40f7-8ae7-c81640b3671f.jpg)" width="1000px"/> Cenário para a Persona Alberto:
+Cenário para a Persona Alberto:
 Alberto acabou de chegar em casa depois de um dia cansativo de trabalho no centro de São Paulo. Ele está sentindo a tensão do dia ainda em seus ombros e pensa no que precisa fazer para se preparar para o dia seguinte. Ele se lembra que precisa recarregar o cartão de bilhetes para a passagem de ônibus da semana. Como ele não quer sair de casa novamente, decide usar o aplicativo da TOP, que oferece uma opção de recarga de crédito por Pix. Ele pega o telefone e abre o aplicativo. Ele é direcionado para a página de login, onde ele coloca suas credenciais de usuário. Ao entrar no aplicativo, ele vai até a opção de recarga de crédito do cartão de ônibus e seleciona a opção de Pix. Ele então insere o valor que deseja recarregar e confirma a transação. A página do aplicativo mostra a confirmação da transação e o valor total que ele acabou de recarregar. Alberto se sente aliviado e agradece pela facilidade e rapidez do aplicativo. Ele decide então passar o restante da noite com a família, assistindo televisão e jogando jogos de tabuleiro com seus filhos. Ele se sente grato por ter encontrado uma maneira fácil de lidar com uma das muitas tarefas que tem em sua rotina diária.
 
 Cenário para a Persona Sophia:
