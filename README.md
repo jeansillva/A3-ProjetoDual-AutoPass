@@ -41,7 +41,7 @@ Cartão Transporte TOP: cartão de transporte exclusivo para embarque no transpo
   
 Bilhete Único: É um cartão que armazena créditos eletrônicos monetários e temporais para pagamento de tarifas no Serviço de Transporte Coletivo Público de Passageiros na Cidade de São Paulo, gerenciado pela SPTrans, e o Sistema Estadual de Transporte Público Metropolitano Metroferroviário (Metrô e CPTM). 
   
-Informações retiradas do site oficial da AutoPass (https://www.autopass.com.br/produtos/) 
+Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.br/produtos/) 
   
 # Requisitos Funcionais 
 
@@ -71,6 +71,15 @@ Alberto acabou de chegar em casa depois de um dia cansativo de trabalho no centr
 
 Cenário para a Persona Sophia:
 Sophia está caminhando em direção à parada de ônibus quando percebe que esqueceu seu celular em casa. Ela se sente frustrada porque precisa recarregar seu cartão de bilhetes de ônibus e não tem certeza se pode fazer isso sem o celular. Ela verifica o tempo e percebe que o ônibus que ela precisa pegar passará em 15 minutos. Ela se lembra que seu pai deixou um cartão de crédito com ela para emergências. Ela decide tentar recarregar seu cartão de ônibus em um ATM que fica perto da parada de ônibus. Quando chega ao ATM, ela insere o cartão de crédito e seleciona a opção de recarga de bilhetes de ônibus. Sophia seleciona o valor que deseja recarregar e confirma a transação. Ela se sente aliviada quando a tela do ATM mostra que a recarga foi bem-sucedida. Ela pega o comprovante e corre de volta para a parada de ônibus, sabendo que tem apenas alguns minutos para chegar a tempo. Ela finalmente chega à parada de ônibus e percebe que o ônibus que ela precisa pegar ainda não chegou. Ela aproveita o tempo para ler o novo romance que acabou de pegar na biblioteca e se perde na história. Quando o ônibus chega, ela sobe a bordo e se sente grata por ter encontrado uma solução rápida e eficaz para seu problema.
+
+Cenário para a Persona Pamela: 
+Pamela acorda cedo, se arruma e vai até a garagem para sair de carro em direção ao trabalho, mas para sua surpresa, o veículo não liga. Sem ter outra opção, ela decide utilizar o transporte público e usa o seu cartão de bilhetes para passagem de ônibus. Como já havia utilizado o aplicativo da empresa TOP para recargas anteriores, ela decide fazer a recarga pelo celular novamente. No entanto, como não é algo que faz com frequência, ela acaba encontrando algumas dificuldades para realizar a operação. Depois de tentar algumas vezes, Pamela começa a ficar desapontada com o aplicativo, pois não consegue concluir a recarga com a rapidez que gostaria, atrasando um pouco a sua saída de casa. Mesmo assim, ela persiste na tentativa e, após alguns minutos, consegue finalizar a operação e seguir para o trabalho com o seu cartão de bilhetes devidamente recarregado.
+
+Cenário para a Persona Maria:
+Maria, de 63 anos, está preocupada em chegar a tempo em sua consulta médica. Ela sai de casa com o cartão top do marido, que saiu há uma hora. Ao chegar na rua, Maria percebe que esqueceu de fazer a recarga do cartão de transporte público, que é essencial para chegar ao hospital. O marido já tinha avisado sobre a necessidade de recarga, mas ela não se lembrava exatamente do procedimento. Maria tenta usar o aplicativo, mas percebe que tem dificuldades em manuseá-lo, pois não está familiarizada com o uso de smartphones e aplicativos. Então, decide ir a uma máquina de autoatendimento em um banco próximo, que o marido havia explicado como usar. Ao chegar lá, ela se depara com uma interface um pouco confusa, mas tenta seguir as orientações do marido. No entanto, ela ainda tem dificuldades em colocar o cartão e selecionar as opções corretas. Percebendo sua dificuldade, algumas pessoas que passavam pelo local se oferecem para ajudá-la, e Maria, muito agradecida, aceita a ajuda. Com a ajuda das pessoas, Maria consegue fazer a recarga e seguir para sua consulta médica. Mesmo tendo passado por algumas dificuldades, ela se sente aliviada e agradecida pela ajuda que recebeu.
+
+Cenário para a Persona Guilherme: 
+Guilherme acorda cedo para ir ao trabalho e percebe que seu cartão de transporte está quase sem créditos. Ele lembra que pode recarregar o cartão pelo aplicativo e decide tentar. Como já está acostumado a utilizar o smartphone, encontra o aplicativo facilmente na loja de aplicativos e o instala. Ao abrir o app, ele seleciona a opção de recarga escolar, que permite adicionar créditos com desconto para estudantes. Ele escolhe a opção de pagamento com cartão de crédito, informa seus dados e os dados do cartão top e completa a transação. Guilherme se sente satisfeito em ter conseguido fazer a recarga sozinho e sem complicações, e ainda economizando com a opção de recarga escolar. Agora, ele pode ir trabalhar e estudar tranquilo, sabendo que tem créditos suficientes em seu cartão de transporte.
 
 # Contribuição
 
