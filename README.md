@@ -75,26 +75,25 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 
 # 3 - Cenários
 <div align="center">
-<img src="https://user-images.githubusercontent.com/111095599/236974270-8bacff71-f1d3-4312-a2a6-7dfeb049d945.png"width="600rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974276-1f30de76-197c-4ed5-aefc-9b712863c84e.png"width="600rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974279-07bc0831-ed7d-44a9-84e9-4ee65dbcfda7.png"width="600rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974281-e03c0b39-2e64-432d-b01a-b924f6ef7279.png"width="600rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974283-a452d868-cfcc-4b08-98a1-5c0afc1a526b.png"width="600rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974285-86c5a5b7-0810-4918-b209-1ed962952314.png"width="600rem"/>
-<img src="https://user-images.githubusercontent.com/111095599/236974290-d3dad188-f9e9-4526-9f5f-72d35d3bd74f.png"width="600rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236974270-8bacff71-f1d3-4312-a2a6-7dfeb049d945.png"width="700rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236974276-1f30de76-197c-4ed5-aefc-9b712863c84e.png"width="700rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236974279-07bc0831-ed7d-44a9-84e9-4ee65dbcfda7.png"width="700rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236974281-e03c0b39-2e64-432d-b01a-b924f6ef7279.png"width="700rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236974283-a452d868-cfcc-4b08-98a1-5c0afc1a526b.png"width="700rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236974285-86c5a5b7-0810-4918-b209-1ed962952314.png"width="700rem"/>
+<img src="https://user-images.githubusercontent.com/111095599/236974290-d3dad188-f9e9-4526-9f5f-72d35d3bd74f.png"width="700rem"/>
 </div>
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
