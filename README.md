@@ -7,8 +7,9 @@
 - Isabelle Bezerra Capecce 820140332 </br>
 - Jean Carlos Oliveira da Silva 32210226 </br>
 - Natalia Reis Martins 820142521 </br>
-- Samuel Ribeiro 12722212004 </br>
 - Sâmeck Zanela Costa 322212223 </br>
+- Samuel Ribeiro 12722212004 </br>
+
 
 # Índice/Sumário
 
