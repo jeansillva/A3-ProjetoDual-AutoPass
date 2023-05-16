@@ -21,6 +21,8 @@
 	* [Fluxo de Usuário](#fluxo-de-usuário)
 * [2 - Personas](#2---personas)
 * [3 - Cenários](#3---cenários)
+* [4 - Protótipos](#4---protótipos)
+
 <h4 align="center"> 
 	🚧  Mais tópicos serão adicionados ao sumário com o desenvolver do trabalho. . . 🧑‍🎓
 </h4>
@@ -97,6 +99,11 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 <img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/a894d5eb-8f95-4e6d-9aa3-1333789bb016"width="750rem"/>
 <img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111094855/15c31ba4-2fa8-4e49-996a-dffee39d771e"width="750rem"/>
 </div>
+
+# 4 - Protótipos
+<h4>Lo-fi - Protótipo de Baixa Fidelidade</h4></br>
+
+<h4>Hi-fi - Protótipo de Alta Fidelidade</h4>
 
 <h4 align="center"> 
 	🚧  Próxima entrega em desenvolvimento . . . Volte em breve 🧑‍🎓
