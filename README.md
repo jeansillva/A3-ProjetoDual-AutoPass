@@ -143,7 +143,10 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/eed86a26-7f77-43d3-8bff-c4558fc718c7"width="750rem"/>
 </div>
 
-<h4>Hi-fi - Protótipo de Alta Fidelidade</h4>
+<h3>Hi-fi - Protótipo de Alta Fidelidade: </h3> </br>
+
+[----> Clique aqui para ser direcionado para interação do protótipo <----](https://www.figma.com/proto/6PoEJe9Er9m3zVTksG5zQq/Fluxos-ATMs-Copy?type=design&node-id=206-74&scaling=min-zoom&page-id=206%3A74&starting-point-node-id=206%3A93)
+
 
 <h4 align="center"> 
 	🚧  Próxima entrega em desenvolvimento . . . Volte em breve 🧑‍🎓
