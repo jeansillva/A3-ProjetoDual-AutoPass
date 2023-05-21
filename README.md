@@ -127,12 +127,10 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/67fb9c3e-7af3-4441-b777-4c266af56f2a"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/d00e30cc-0775-405b-a745-1327268c94f0"width="750rem"/>
 </div>
-
-<div align="center">
+	<div align="center">
 	<h4 align="center"> 
-	Processo CARTÃO TOP: 
+	Processo CARTÂO TOP: 
 	</h4>
-	
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cba988f4-0238-41a4-9a36-54fcda594dd7"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cff02342-1110-49c5-820c-e049c2952388"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/42271736-673c-425b-96a2-e3e7533471fe"width="750rem"/>
