@@ -101,11 +101,11 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 </div>
 
 # 4 - Protótipos
-<h4>Lo-fi - Protótipo de Baixa Fidelidade</h4></br>
+<h3>Lo-fi - Protótipo de Baixa Fidelidade</h3></br>
 <div align="center">
-	<h4 align="center"> 
+	<h2 align="center"> 
 	Processo QR CODE: 
-	</h4>
+	</h2>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/05c9e700-1db4-409b-b8f8-32973b11b74f"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cdafd259-e894-4958-a2ef-ea365b5a0660"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/916c20d5-29e6-4285-a01e-3748a19b5f7f"width="750rem"/>
@@ -126,11 +126,11 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/89c76dc0-ae85-441f-920e-11efa119fcf3"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/67fb9c3e-7af3-4441-b777-4c266af56f2a"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/d00e30cc-0775-405b-a745-1327268c94f0"width="750rem"/>
-</div>
+</div></br></br>
 	<div align="center">
-	<h4 align="center"> 
-	Processo CARTÂO TOP: 
-	</h4>
+	<h2 align="center"> 
+	Processo CARTÃO TOP: 
+	</h2>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cba988f4-0238-41a4-9a36-54fcda594dd7"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cff02342-1110-49c5-820c-e049c2952388"width="750rem"/>
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/42271736-673c-425b-96a2-e3e7533471fe"width="750rem"/>
