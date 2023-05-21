@@ -102,6 +102,48 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 
 # 4 - Protótipos
 <h4>Lo-fi - Protótipo de Baixa Fidelidade</h4></br>
+<div align="center">
+	<h4 align="center"> 
+	Processo QR CODE: 
+	</h4>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/05c9e700-1db4-409b-b8f8-32973b11b74f"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cdafd259-e894-4958-a2ef-ea365b5a0660"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/916c20d5-29e6-4285-a01e-3748a19b5f7f"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/a96c0b9e-8fb6-42c0-9b37-4ac5e46ed95e"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/af45977d-8a14-46a2-995a-a09e75d773c5"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/1d034d00-51a4-402c-9978-462d4774642b"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/9ac047fe-b0fd-4ec7-b056-5ae889049540"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/1dc9dd26-33e6-43f6-903b-8937e4badbe4"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/5aff7a4c-1185-47b5-a618-e4cbb8756e5c"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/7367bda3-4145-4d28-95f8-e3982b488b07"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/1ab0c4e6-eef4-4599-90c4-5264404e75c9"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/23fb04c7-043d-4c86-ac3e-b2f125a55d52"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/4f9528c8-ee3e-4380-b128-42da16933c90"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/c8eeada3-02fe-4bf0-9919-3a6d5a561fca"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/024a0208-b3af-47bb-87ba-e4a378d84a6e"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/2ad3855e-e3d1-4713-ba74-f0970de86fe0"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/400ae71d-3663-49fe-a1f5-cb31137efea1"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/89c76dc0-ae85-441f-920e-11efa119fcf3"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/67fb9c3e-7af3-4441-b777-4c266af56f2a"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/d00e30cc-0775-405b-a745-1327268c94f0"width="750rem"/>
+</div>
+
+<div align="center">
+	<h4 align="center"> 
+	Processo CARTÃO TOP: 
+	</h4>
+	
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cba988f4-0238-41a4-9a36-54fcda594dd7"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/cff02342-1110-49c5-820c-e049c2952388"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/42271736-673c-425b-96a2-e3e7533471fe"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/91a476d7-615c-417b-8a89-cc80bde6fb7c"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/5482a310-410f-40d1-8493-494ef969de38"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/1e682076-ad2b-4ca5-86bb-5e02b854ba39"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/3b59467c-bb5d-4b63-9c27-f92504d086b3"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/31a932ed-4394-42b5-809b-ff262ee2ddf6"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/e0e757cb-13d6-4c5b-b2fb-ebd602ba6b76"width="750rem"/>
+	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/eed86a26-7f77-43d3-8bff-c4558fc718c7"width="750rem"/>
+</div>
 
 <h4>Hi-fi - Protótipo de Alta Fidelidade</h4>
 
