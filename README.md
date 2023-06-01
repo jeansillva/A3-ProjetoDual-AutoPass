@@ -102,7 +102,7 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 </div>
 
 # 4 - Protótipos
-#Lo-fi Protótipo de Baixa Fidelidade</h3></br>
+# Lo-fi Protótipo de Baixa Fidelidade
 <div align="center">
 	<h2 align="center"> 
 	Processo QR CODE: 
