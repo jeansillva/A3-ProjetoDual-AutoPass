@@ -22,7 +22,6 @@
 * [2 - Personas](#2---personas)
 * [3 - Cenários](#3---cenários)
 * [4 - Protótipos](#4---protótipos)
-	* [Lo-fi Protótipo de Baixa Fidelidade](#Lo---fi-Protótipo-de-Baixa-Fidelidade)
 
 <h4 align="center"> 
 	🚧  Mais tópicos serão adicionados ao sumário com o desenvolver do trabalho. . . 🧑‍🎓
