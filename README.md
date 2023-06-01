@@ -23,6 +23,7 @@
 * [3 - Cenários](#3---cenários)
 * [4 - Protótipos](#4---protótipos)
 	* [4.1 - Lo-fi Protótipo de Baixa Fidelidade](#lo-fi-protótipo-de-baixa-fidelidade)
+	* [4.2 - Hi-fi - Protótipo de Alta Fidelidade](#Hi-fi-protótipo-de-alta-fidelidade)
 
 <h4 align="center"> 
 	🚧  Mais tópicos serão adicionados ao sumário com o desenvolver do trabalho. . . 🧑‍🎓
@@ -164,7 +165,7 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 	<img src="https://github.com/jeansillva/A3-ProjetoDual-AutoPass/assets/111095599/eba17938-2422-427d-8d70-51b4e3b6861d"width="750rem"/>
 </div></br></br>
 
-<h3>Hi-fi - Protótipo de Alta Fidelidade: </h3> </br>
+# Hi-fi - Protótipo de Alta Fidelidade:
 
 [----> Clique aqui para ser direcionado para interação do protótipo <----](https://www.figma.com/proto/6PoEJe9Er9m3zVTksG5zQq/Fluxos-ATMs-Copy?type=design&node-id=206-74&scaling=min-zoom&page-id=206%3A74&starting-point-node-id=206%3A93)
 
