@@ -167,7 +167,7 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 
 # Hi-fi Protótipo de Alta Fidelidade:
 
-[----> Clique aqui para ser direcionado para interação do protótipo <----](https://www.figma.com/proto/6PoEJe9Er9m3zVTksG5zQq/Fluxos-ATMs-Copy?type=design&node-id=206-74&scaling=min-zoom&page-id=206%3A74&starting-point-node-id=206%3A93)
+[--------> Clique aqui para ser direcionado para interação do protótipo <--------](https://www.figma.com/proto/6PoEJe9Er9m3zVTksG5zQq/Fluxos-ATMs-Copy?type=design&node-id=206-74&scaling=min-zoom&page-id=206%3A74&starting-point-node-id=206%3A93)
 
 
 <h4 align="center"> 
