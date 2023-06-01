@@ -22,6 +22,7 @@
 * [2 - Personas](#2---personas)
 * [3 - Cenários](#3---cenários)
 * [4 - Protótipos](#4---protótipos)
+	* [4.1 - Lo-fi - Protótipo de Baixa Fidelidade](#4.1 --- Lo---fi --- Protótipo de Baixa Fidelidade)
 
 <h4 align="center"> 
 	🚧  Mais tópicos serão adicionados ao sumário com o desenvolver do trabalho. . . 🧑‍🎓
@@ -101,7 +102,7 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 </div>
 
 # 4 - Protótipos
-<h3>Lo-fi - Protótipo de Baixa Fidelidade</h3></br>
+# 4.1 - Lo-fi - Protótipo de Baixa Fidelidade</h3></br>
 <div align="center">
 	<h2 align="center"> 
 	Processo QR CODE: 
