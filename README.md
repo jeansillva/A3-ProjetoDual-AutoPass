@@ -41,7 +41,10 @@ A identidade visual do produto será mantida, seguindo as diretrizes da AutoPass
 # Tecnologias Usadas
 
 - [HTML5](https://html.spec.whatwg.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Balsamiq](https://balsamiq.com/wireframes/?gad=1&gclid=CjwKCAjwsvujBhAXEiwA_UXnAHoQBP2TNeIX65YQKTQ8wXERAVs7_CRCe-yEAmowC_qlUWOoHyEGuBoCEUkQAvD_BwE)
+- [Figma](https://www.figma.com/)
+- [Power Point](https://www.microsoft.com/pt-br/microsoft-365/p/powerpoint/CFQ7TTC0HLG1?activetab=pivot:overviewtab&ef_id=_k_CjwKCAjwsvujBhAXEiwA_UXnAPMooTjz2TT5PLJx2JopLUIkIdtN01QB6fkARLdlQSXuMDe6t2KxOBoCpqUQAvD_BwE_k_&OCID=AIDcmmq9ldqz5w_SEM__k_CjwKCAjwsvujBhAXEiwA_UXnAPMooTjz2TT5PLJx2JopLUIkIdtN01QB6fkARLdlQSXuMDe6t2KxOBoCpqUQAvD_BwE_k_&gclid=CjwKCAjwsvujBhAXEiwA_UXnAPMooTjz2TT5PLJx2JopLUIkIdtN01QB6fkARLdlQSXuMDe6t2KxOBoCpqUQAvD_BwE)
+- 
 
 # 1 - Estudo da Aplicação Características e Requisitos 
 
@@ -63,14 +66,14 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
   
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Vender Bilhete Digital QR Code via Cartão de Débito 
-- [ ] Recarregar Cartão TOP em Dinheiro
-- [ ] Recarregar Cartão TOP via Cartão de Débito
-- [ ] Recarregar Bilhete Único em Dinheiro
-- [ ] Recarregar Bilhete Único via Cartão de Débito
-- [ ] Consultar o saldo
+- [x] Cadastrar Usuário
+- [x] Fazer Login
+- [x] Vender Bilhete Digital QR Code via Cartão de Débito 
+- [x] Recarregar Cartão TOP em Dinheiro
+- [x] Recarregar Cartão TOP via Cartão de Débito
+- [x] Recarregar Bilhete Único em Dinheiro
+- [x] Recarregar Bilhete Único via Cartão de Débito
+- [x] Consultar o saldo
 
 # Fluxo de Usuário: 
 <div align="center">
@@ -173,5 +176,6 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 <h4 align="center"> 
 	🚧  Próxima entrega em desenvolvimento . . . Volte em breve 🧑‍🎓
 </h4>
+
 
 
