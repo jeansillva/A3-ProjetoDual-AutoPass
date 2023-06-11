@@ -170,13 +170,9 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 [--------> Clique aqui para ser direcionado para interação do protótipo <--------](https://www.figma.com/proto/6PoEJe9Er9m3zVTksG5zQq/Fluxos-ATMs-Copy?type=design&node-id=206-74&scaling=min-zoom&page-id=206%3A74&starting-point-node-id=206%3A93)
 
 # Avaliação Heurística 
-<div>
-	<h4>
-	Clique em VIEW RAW para realizar o download da planilha
-	</h4></br>
 [--------> Planilha com cálculos <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Planilha%20Avaliacao%20Final.xlsx)</br></br> 
 [--------> Relatório da Avaliação Final <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Planilha%20Avaliacao%20Final.xlsx)
-</div>
+
 # Vídeo 
 
 [---------> Clique aqui para ser direcionado ao vídeo <---------](https://youtu.be/GSklQD2MGns)
