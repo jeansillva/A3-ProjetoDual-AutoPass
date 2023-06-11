@@ -25,7 +25,7 @@
 	* [4.1 - Lo-fi Protótipo de Baixa Fidelidade](#lo-fi-protótipo-de-baixa-fidelidade)
 	* [4.2 - Hi-fi Protótipo de Alta Fidelidade](#Hi-fi-protótipo-de-alta-fidelidade)
 * [5- Avaliação Heurística](#avaliação-heurística)
-* [6- Video] Em produção...
+* [6- Video](#vídeo)
 
 # Sobre o Projeto
 
@@ -174,8 +174,8 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 [--------> Planilha com cálculos <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Planilha%20Avaliacao%20Final.xlsx)</br></br>
 [--------> Relatório da Avaliação Final <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Planilha%20Avaliacao%20Final.xlsx)
 
-<h4 align="center"> 
-	🚧  Próxima entrega em desenvolvimento . . . Volte em breve 🧑‍🎓
-</h4>
+# Vídeo 
+
+[---------> Clique aqui para ser direcionado ao vídeo <---------](https://youtu.be/GSklQD2MGns)
 
 
