@@ -171,7 +171,8 @@ Informações retiradas do site oficial da [AutoPass.](https://www.autopass.com.
 
 # Avaliação Heurística 
 
-<h4>Clique em VIEW RAW para realizar o download da planilha</h4>[--------> Planilha com cálculos <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Planilha%20Avaliacao%20Final.xlsx)</br></br> 
+<h4>Clique em VIEW RAW para realizar o download da planilha</h4></br>
+[--------> Planilha com cálculos <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Planilha%20Avaliacao%20Final.xlsx)</br></br> 
 [--------> Relatório da Avaliação Final <--------](https://github.com/jeansillva/A3-ProjetoDual-AutoPass/blob/main/Planilha%20Avaliacao%20Final.xlsx)
 
 # Vídeo 
